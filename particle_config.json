@@ -1,0 +1,5 @@
+{
+    "ParticleFile": "particles/explosions_fx/explosion_c4_short.vpcf",
+    "SpawnMethod": 1,
+    "Debug": true
+  }
