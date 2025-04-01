@@ -153,7 +153,6 @@ This project is open-source under the [MIT License](LICENSE). Feel free to use, 
 
 ## Donate
 If you enjoy this plugin or find it useful, consider supporting me with a donation! Every bit helps me keep developing.
-- **PayPal**: [Donate Here](https://www.paypal.com/paypalme/qazlll456)
 - **Ko-fi**: [Support on Ko-fi](https://ko-fi.com/qazlll456)
 - **Patreon**: [Become a Patron](https://www.patreon.com/c/qazlll456)
 - **Streamlabs**: [Tip via Streamlabs](https://streamlabs.com/BKCqazlll456/tip)
